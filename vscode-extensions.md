@@ -1,64 +1,64 @@
 List of all extensions I use in VSCode.
 
-code --install-extension bungcip.better-toml
+ * [bungcip.better-toml](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
-code --install-extension burkeholland.simple-react-snippets
+ * [burkeholland.simple-react-snippet](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
-code --install-extension christian-kohler.path-intellisense
+ * [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-code --install-extension codezombiech.gitignore
+ * [codezombiech.gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 
-code --install-extension dariofuzinato.vue-peek
+ * [dariofuzinato.vue-peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
 
-code --install-extension dbaeumer.vscode-eslint
+ * [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-code --install-extension dsznajder.es7-react-js-snippets
+ * [dsznajder.es7-react-js-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-code --install-extension EditorConfig.EditorConfig
+ * [EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
-code --install-extension file-icons.file-icons
+ * [file-icons.file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 
-code --install-extension formulahendry.auto-close-tag
+ * [formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
-code --install-extension formulahendry.auto-rename-tag
+ * [formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-code --install-extension GitHub.vscode-pull-request-github
+ * [GitHub.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
-code --install-extension HookyQR.beautify
+ * [HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-code --install-extension k--kato.intellij-idea-keybindings
+ * [k--kato.intellij-idea-keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
-code --install-extension mikestead.dotenv
+ * [mikestead.dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
-code --install-extension mohsen1.prettify-json
+ * [mohsen1.prettify-json](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
 
-code --install-extension mrmlnc.vscode-scss
+ * [mrmlnc.vscode-scss](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
-code --install-extension ms-vscode.cpptools
+ * [ms-vscode.cpptools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
-code --install-extension naumovs.color-highlight
+ * [naumovs.color-highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-code --install-extension octref.vetur
+ * [octref.vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
-code --install-extension secanis.jenkinsfile-support
+ * [secanis.jenkinsfile-support](https://marketplace.visualstudio.com/items?itemName=secanis.jenkinsfile-support)
 
-code --install-extension shinnn.stylelint
+ * [shinnn.stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 
-code --install-extension vincaslt.highlight-matching-tag
+ * [vincaslt.highlight-matching-tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 
-code --install-extension vsciot-vscode.vscode-arduino
+ * [vsciot-vscode.vscode-arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 
-code --install-extension vscode-icons-team.vscode-icons
+ * [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-code --install-extension wix.vscode-import-cost
+ * [wix.vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-code --install-extension wmaurer.change-case
+ * [wmaurer.change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 
-code --install-extension xabikos.JavaScriptSnippets
+ * [xabikos.JavaScriptSnippetst](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippetst)
 
-code --install-extension yzhang.markdown-all-in-one
+ * [yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-code --install-extension zeit.zeit
+ * [zeit.zeit](https://marketplace.visualstudio.com/items?itemName=zeit.zeit)
 
-code --install-extension Zignd.html-css-class-completion
+ * [Zignd.html-css-class-completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
