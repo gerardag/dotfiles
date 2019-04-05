@@ -1,0 +1,51 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "describe": true,
+    "it": true,
+    "expect": true,
+    "jest": true,
+    "beforeEach": true,
+    "afterEach": true,
+    "jsdom": true,
+    "document": true,
+    "window": true,
+    "sessionStorage": true,
+    "localStorage": true,
+    "viewObjectsJson": true,
+    "shopJson": true,
+    "dataLayer": true,
+    "dataLayerV2Json": true,
+    "ga": true,
+    "EmpathyBrokerTAG": true,
+    "limiteCompraController": true,
+    "shoppingBagController": true,
+    "avisameController": true
+  },
+  "rules": {
+    "react/prop-types": [
+      "error", {
+        "ignore": [],
+        "customValidators": [],
+        "skipUndeclared": true
+      }
+    ],
+    "jsx-a11y/anchor-is-valid": [
+      "error", {
+        "components": ["Link"],
+        "specialLink": ["hrefLeft", "hrefRight"],
+        "aspects": ["invalidHref", "preferButton"]
+      }
+    ],
+    "react/jsx-one-expression-per-line": [
+      true, {
+        "allow": "single-child"
+      }
+    ],
+    "jsx-a11y/media-has-caption": [ 3, {
+      "audio": [ "Audio" ],
+      "video": [ "Video" ],
+      "track": [ "Track" ]
+    }]
+  }
+}
