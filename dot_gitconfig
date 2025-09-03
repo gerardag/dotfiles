@@ -1,0 +1,14 @@
+[user]
+	email = gerard@cnsld.cc
+	name = Gerard Albanell
+
+[core]
+  editor = vim
+
+[help]
+  autoCorrect = 20
+
+
+[includeIf "gitdir:~/Projectes"]
+    path = ~/Projectes/.gitconfig
+

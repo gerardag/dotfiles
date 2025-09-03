@@ -1,0 +1,40 @@
+# Add this to the TOP of your .zshrc
+# zmodload zsh/zprof
+
+# Performance optimizations
+DISABLE_AUTO_UPDATE="true"
+DISABLE_MAGIC_FUNCTIONS="true"
+DISABLE_COMPFIX="true"
+
+# Cache completions aggressively
+autoload -Uz compinit
+if [ "$(date +'%j')" != "$(stat -f '%Sm' -t '%j' ~/.zcompdump 2>/dev/null)" ]; then
+    compinit
+else
+    compinit -C
+fi
+
+# Oh My Zsh path
+export ZSH="$HOME/.oh-my-zsh"
+
+ZSH_THEME="robbyrussell"
+
+# Carefully ordered plugins (syntax highlighting must be last)
+plugins=(
+  git
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+)
+
+source $ZSH/oh-my-zsh.sh
+
+# Autosuggest settings
+ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE="20"
+ZSH_AUTOSUGGEST_USE_ASYNC=1
+
+# Aliasses
+alias tf='terraform'
+
+
+# Add this to the BOTTOM of your .zshrc
+# zprof
