@@ -1,0 +1,4 @@
+configs:
+  include:
+    - ~/.kube/config
+    - ~/.kube/nubulus/config
