@@ -1,0 +1,3 @@
+# ~gerardag
+
+Els meus dotfiles.
