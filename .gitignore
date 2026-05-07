@@ -1,0 +1,4 @@
+git/gitconfig.work
+git/gitconfig.personal
+.gitsecret/keys/random_seed
+!*.secret

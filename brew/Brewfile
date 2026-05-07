@@ -1,0 +1,72 @@
+# Terminal & Shell
+brew "fzf"
+brew "git"
+brew "gnupg"
+brew "wget"
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
+
+# Oh My Zsh (instal·lat via script a install.sh, no via brew)
+
+# Eines de desenvolupament
+brew "helm"
+brew "hugo"
+brew "node"
+brew "packer"
+brew "terraform"
+brew "yarn"
+
+# Kubernetes
+brew "k9s"
+brew "kubectl"
+
+# Seguretat
+brew "git-secret"
+
+# Terminals
+cask "ghostty"
+
+# Navegadors
+cask "firefox"
+cask "google-chrome"
+
+# Editors
+cask "visual-studio-code"
+
+# Dev tools
+cask "charles"
+cask "proxyman"
+cask "yaak"
+
+# Xarxa & VPN
+brew "nextdns"
+cask "tailscale-app"
+
+# Utilitats
+cask "appcleaner"
+cask "bambu-studio"
+cask "bitwarden"
+cask "discord"
+cask "figma"
+cask "kap"
+cask "meetingbar"
+brew "mole"
+cask "neohtop"
+cask "raycast"
+cask "spotify"
+cask "the-unarchiver"
+
+# Hardware / Maker
+cask "balenaetcher"
+cask "raspberry-pi-imager"
+
+# Fonts
+cask "font-fira-code-nerd-font"
+cask "font-fira-mono-nerd-font"
+cask "font-inter"
+
+# Mac App Store
+brew "mas"
+mas "Pixelmator Pro", id: 1289583905

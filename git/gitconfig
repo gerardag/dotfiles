@@ -1,0 +1,24 @@
+[include]
+	path = ~/.gitconfig.personal
+
+[includeIf "gitdir:~/Work/"]
+	path = ~/.gitconfig.work
+
+[init]
+  defaultBranch = main
+
+[merge]
+  conflictstyle = diff3
+
+[format]
+  pretty = %C(yellow)%h%Creset %s %C(red)(%an, %cr)%Creset
+
+[push]
+  default = simple
+
+[core]
+  editor = vim
+  excludesFile = ~/.gitignore
+
+[help]
+  autoCorrect = 20
